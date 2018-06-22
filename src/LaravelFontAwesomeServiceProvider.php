@@ -1,6 +1,6 @@
 <?php
 
-namespace FontIconSearch\LaravelFontAwesomeServiceProvider;
+namespace FontIconSearch\LaravelFontAwesome;
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
 
